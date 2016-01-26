@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @author NISHANT VAIDYA
- * version 1.0
+ * version 1.2
  *
  */
 public class FileDataBean extends MessageBean {
